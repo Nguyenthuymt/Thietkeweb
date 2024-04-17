@@ -1,0 +1,59 @@
+.chung{
+    width: 100%;
+    height: 1000px;
+    margin: 0 auto;
+    left: 0;
+    padding: 5%;
+}
+.chu{
+    width: 950px;
+    height: 550px;
+    margin: auto;
+    top: 0;
+
+}
+.chu img{
+    width: 950px;
+}
+.dau{
+    width: 800px;
+    margin: auto;
+}
+.ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(42, 42, 42);
+    overflow: hidden;
+    width: 25%;
+    position: fixed;
+    top: 0;
+    }    
+ul li{
+    float: left;
+    border-right: 1px solid #bbb;
+}
+ul li a{
+    text-decoration: none;
+    display: block;
+    padding: 8px 16px;
+    color: #000000;
+    }
+body{
+    margin: 0;
+}
+diV{
+    margin-left: 1%;
+    padding: 2px, 16px;
+    height: 1000px;
+}
+.menu{
+    background-color: black;
+    color: white;
+    width: 90%;
+    height: 50px;
+}
+ul li a{
+    color: white;
+    padding: 10px 15px;
+}
